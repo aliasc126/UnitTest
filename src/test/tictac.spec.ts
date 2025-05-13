@@ -1,4 +1,4 @@
-import { TicTacToe } from '../tictac';
+import { TicTacToe } from '../app/tictac';
 
 describe('TicTacToe', () => {
     let game: TicTacToe;

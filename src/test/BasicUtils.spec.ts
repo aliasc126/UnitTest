@@ -1,4 +1,4 @@
-import { product } from "../BasicUtils";
+import { product } from "../app/BasicUtils";
 
 describe('BasicUtils Test Suite', () => {
     it('returns the product of two numbers', () => {

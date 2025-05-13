@@ -1,4 +1,4 @@
-import { Inventory, InventoryItem } from '../inventory';
+import { Inventory, InventoryItem } from '../app/inventory';
 
 describe('Inventory', () => {
     let inventory: Inventory;

@@ -1,4 +1,4 @@
-import { Calc } from '../Calc';
+import { Calc } from '../app/Calc';
 
 describe('Calc', () => {
     describe('add', () => {

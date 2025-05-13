@@ -1,4 +1,4 @@
-import { fibonacciSeries } from '../fibo';
+import { fibonacciSeries } from '../app/fibo';
 
 describe('fibonacciSeries', () => {
     it('should return an empty array for n = 0', () => {
